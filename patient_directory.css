@@ -1,0 +1,71 @@
+body, html { background-color:#fff; background-image: url(Images/ICCU.jpg); background-size: 1368px 1000px; font-family: 'Raleway', sans-serif; margin: 0px;
+   min-height: 150%;
+   min-width: 1500px;}
+.mainbg{ width:1300px; height: 858px; background-color:#ECF3EA; float:right; position:relative; top:100px;
+	left:-12%; opacity: 0.8;
+    filter: alpha(opacity=50);}
+	.header
+	{
+	position: absolute;
+	top: 0px;
+	left: 0;
+	width: 100%;
+	height: 60px;
+	background: #564;
+	z-index:10;
+	opacity: 0.8;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+	}
+	 a
+	{
+	
+	top:29%;
+	text-decoration:none;
+    color:#FFF;	
+	position:absolute;
+	float:right;
+	right:530px;
+	}
+b{
+	text-decoration:blink;
+	font-style:normal;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+.center
+{
+	
+}
+c{
+	text-decoration:blink;
+	font-style:normal;
+	color:#171597;
+	font-weight:bolder;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+d
+{
+	text-decoration:blink;
+	font-style:normal;
+	color: #483368;
+	font-weight:bolder;
+	font-family: merienda-one;
+}
+.box
+{
+	top:25%;
+	text-decoration:none;
+	
+    color:#FFF;	
+	position:absolute;
+	float:right;
+	right:600px;
+	
+}
+.tfbutton{
+	text-decoration:blink;
+	font-style:normal;
+	color:#171597;
+	font-weight:bolder;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+
